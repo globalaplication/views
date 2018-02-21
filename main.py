@@ -17,3 +17,4 @@ class youtube(object):
                 return self.getviews(line)
 get = youtube("UCRx5NnTE3bK_gMXm0-lKlpw")
 print get.views()
+#2.7python
